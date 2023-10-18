@@ -157,11 +157,7 @@ nav>a.nav-item {
 	h2>a,
 	h2>a:hover,
 	h3>a,
-	h3>a:hover,
-	h4>a,
-	h4>a:hover,
-	h5>a,
-	h5>a:hover {
+	h3>a:hover {
 		color: #ccc;
 	}
 
@@ -188,11 +184,7 @@ nav>a.nav-item {
 	h2>a,
 	h2>a:hover,
 	h3>a,
-	h3>a:hover,
-	h4>a,
-	h4>a:hover,
-	h5>a,
-	h5>a:hover {
+	h3>a:hover {
 		color: #333;
 	}
 
