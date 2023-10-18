@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en_GB">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>{% block outertitle %}{% block title %}{% endblock title %} - {% endblock outertitle %}Rust for Lunch</title>
+
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+	<link rel="alternate" type="application/rss+xml" title="Rust for Lunch Meet-ups" href="/rss.xml" />
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+	<link rel="stylesheet" href="/css/lunch.css">
+</head>
+
+<body>
+	<div class="masthead" role="navigation">
+		<div class="container">
+			<nav>
+				<a class="nav-item" href="/">lunch</a>
+				<a class="nav-item" href="/about/">about</a>
+			</nav>
+		</div>
+	</div>
+	<div class="container" role="main">
+
+		{% block content %}
+		{% endblock content %}
+
+		<div class="footer" role="footer">
+			<div class="separator"></div>
+			<p><span class="current-year">2023</span>, Hayden Stainsby.</p>
+		</div>
+	</div>
+	{% block lastthing %}{% endblock lastthing %}
+</body>
+
+</html>

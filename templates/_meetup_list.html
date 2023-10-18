@@ -1,0 +1,8 @@
+{% for page in section.pages %}
+<div class="meetup">
+    <h2><a href="{{ page.permalink }}">{{ page.title }}</a></h2>
+    <div>{{ page.content | safe }}</div>
+
+    {% if not loop.last %}<div class="separator"></div>{% endif %}
+</div>
+{% endfor %}

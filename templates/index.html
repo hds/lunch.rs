@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block outertitle %}{% endblock outertitle %}
+
+{% block content %}
+<h1 class="page-title">Rust for Lunch</h1>
+
+<p class="cross-line"><em>{{ section.description }}</em></p>
+
+<div>{{ section.content | safe }}</div>
+
+{% set section = get_section(path="meetups/_index.md") %}
+{% include "_meetup_list.html" %}
+{% endblock content %}
