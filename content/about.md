@@ -42,5 +42,4 @@ open an issue on the
 ## Contact
 
 You can get in touch with Hayden at his
-[personal email address](mailto:hds@hegdenu.net). See the [hegdenu.net about
-page](https://hegdenu.net/about/#contact) for more ways.
+[personal email address](mailto:hds@hegdenu.net). See the [hegdenu.net about page](https://hegdenu.net/about/#contact) for more ways.

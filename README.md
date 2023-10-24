@@ -26,7 +26,6 @@ the Hayden at his personal email address
 
 [coc]: https://github.com/rust-lang/rust/blob/master/CODE_OF_CONDUCT.md
 
-
 ## Disclaimer
 
 Rust for Lunch is not associated with or endorsed by either the
