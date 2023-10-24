@@ -10,5 +10,3 @@ slot and the time is chosen to be a feasible lunch time.
 
 The first meet-up will be scheduled around European and African midday and
 early afternoon.
-
-

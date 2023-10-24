@@ -1,0 +1,42 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  code_quality:
+    name: Code quality
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+
+      - uses: taiki-e/install-action@dprint
+
+      - name: Show version information
+        shell: bash
+        run: |
+          dprint --version
+
+      - name: Ensure `fmt` has been run
+        run:  dprint check
+
+
+  build:
+    name: Build
+    runs-on: ubuntu-22.04
+
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+
+      - uses: taiki-e/install-action@v2
+        with:
+          tool: zola
+
+      - name: Show version information
+        shell: bash
+        run: |
+          zola --version
+
+      - name: Build
+        run: zola build
