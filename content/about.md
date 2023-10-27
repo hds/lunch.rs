@@ -26,7 +26,7 @@ the Hayden at his personal email address
 ## Disclaimer
 
 Rust for Lunch is not associated with or endorsed by either the
-[Rust Project](https://www.rust-lang.org/) or the
+[Rust Project](https://www.rust-lang.org/) nor the
 [Rust Foundation](https://foundation.rust-lang.org/).
 
 ## Contributing
