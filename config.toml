@@ -1,6 +1,9 @@
 # The URL the site will be built for
 base_url = "https://lunch.rs"
 
+# For overriding the default output directory `public`, set it to another value (e.g.: "docs")
+output_dir = "docs"
+
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
 
