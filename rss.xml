@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title></title>
+      <link>https://lunch.rs</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://lunch.rs/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>2024-01-24</title>
+          <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2024-01-24/</link>
+          <guid>https://lunch.rs/meetups/2024-01-24/</guid>
+          <description>&lt;p&gt;This is a placeholder for the third session of the Rust for Lunch meet-up.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;d like to remind everyone that all participants (speakers, moderators, and
+attendees) must follow the &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#code-of-conduct&quot;&gt;Code of Conduct&lt;&#x2F;a&gt; during
+the meetup.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: TBD&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Wednesday, 24 January, 2024&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;e35f56e0&quot;&gt;&lt;strong&gt;12:00 - 13:00 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12:00 - 13:00 GMT&lt;&#x2F;strong&gt; (e.g. London, Bamako)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;13:00 - 14:00 WAT&#x2F;CET&lt;&#x2F;strong&gt; (e.g. Kinshasa, Berlin)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;14:00 - 15:00 EET&#x2F;CAT&lt;&#x2F;strong&gt; (e.g. Lviv, Cairo)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>2023-11-28</title>
+          <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2023-11-28/</link>
+          <guid>https://lunch.rs/meetups/2023-11-28/</guid>
+          <description>&lt;p&gt;The second session of the Rust for Lunch meetup. We&#x27;ll have &lt;strong&gt;two&lt;&#x2F;strong&gt; talks,
+each with time for questions afterwards. There will be time for chatting and
+socializing after the talks.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;d like to remind everyone that all participants (speakers, moderators, and
+attendees) must follow the &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#code-of-conduct&quot;&gt;Code of Conduct&lt;&#x2F;a&gt; during
+the meetup.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: &lt;a href=&quot;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&quot;&gt;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&lt;&#x2F;a&gt; (Senfcall)&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Tuesday, 28 November, 2023&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;e35f56e0&quot;&gt;&lt;strong&gt;12:00 - 13:00 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12:00 - 13:00 GMT&lt;&#x2F;strong&gt; (e.g. London, Bamako)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;13:00 - 14:00 WAT&#x2F;CET&lt;&#x2F;strong&gt; (e.g. Kinshasa, Berlin)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;14:00 - 15:00 EET&#x2F;CAT&lt;&#x2F;strong&gt; (e.g. Lviv, Cairo)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;talk-1-deterministic-execution-time-control-for-arbitrary-wasm&quot;&gt;Talk 1: Deterministic Execution Time Control for Arbitrary WASM&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;speaker-bohdan-ivashko-arriven&quot;&gt;Speaker: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;arriven&quot;&gt;Bohdan Ivashko (arriven)&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;Sometimes you may need to run an arbitrary wasm code while being able to
+impose limits on CPU and memory usage. While having precise memory limits is
+relatively easy, controlling the CPU limits in a reproducible way is a totally
+different can of worms (Spoiler: it&#x27;s counting instructions, we&#x27;ll have to
+count instructions, but we&#x27;ll have to do it somewhat efficiently, and we&#x27;ll do
+it by analyzing and modifying the original code).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Unfortunatebly the second talk for this meet-up has been cancelled. Instead,
+the first talk will run a bit longer.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>2023-10-31</title>
+          <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2023-10-31/</link>
+          <guid>https://lunch.rs/meetups/2023-10-31/</guid>
+          <description>&lt;p&gt;The first Rust for Lunch meetup. Join us online for a talk and questions
+afterwards.&lt;&#x2F;p&gt;
+&lt;p&gt;This session won&#x27;t be recorded or streamed.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;d like to remind everyone that all participants (speakers, moderators, and
+attendees) must follow the &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#code-of-conduct&quot;&gt;Code of Conduct&lt;&#x2F;a&gt; during
+the meetup.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: &lt;a href=&quot;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&quot;&gt;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&lt;&#x2F;a&gt; (Senfcall)&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Tuesday, 31 October, 2023&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;0638f484&quot;&gt;&lt;strong&gt;12:00 - 13:00 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12:00 - 13:00 GMT&lt;&#x2F;strong&gt; (e.g. London, Bamako)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;13:00 - 14:00 WAT&#x2F;CET&lt;&#x2F;strong&gt; (e.g. Kinshasa, Berlin)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;14:00 - 15:00 EET&#x2F;CAT&lt;&#x2F;strong&gt; (e.g. Lviv, Cairo)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;talk-abusing-the-type-system-for-fun-and-for-profit&quot;&gt;Talk: Abusing the Type System for Fun and for Profit&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;speaker-conrad-ludgate&quot;&gt;Speaker: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;conradludgate&quot;&gt;Conrad Ludgate&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;content&#x2F;2023-10-31&#x2F;Abusing_the_Type_System_for_Fun_and_for_Profit-0.png&quot; alt=&quot;Abusing the Type System For Fun and for Profit&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Are you absolutely sure that your payments are submitted at most once? Are you
+sure that your cryptographic library is used correctly? Are you sure that BTree
+is balanced? I&#x27;ll explore some useful (and some goofy) ways to use the rust
+type system to get what you want.&lt;&#x2F;p&gt;
+&lt;p&gt;Slides: &lt;a href=&quot;&#x2F;content&#x2F;2023-10-31&#x2F;Abusing_the_Type_System_for_Fun_and_for_Profit.pdf&quot;&gt;Abusing_the_Type_System_for_Fun_and_for_Profit.pdf&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
