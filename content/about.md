@@ -29,6 +29,14 @@ Rust for Lunch is not associated with or endorsed by neither the
 [Rust Project](https://www.rust-lang.org/) nor the
 [Rust Foundation](https://foundation.rust-lang.org/).
 
+## Social
+
+We have social spaces where meet-up details are announced. You're also welcome
+to join and discuss whatever topic interests you, especially Rust of course.
+
+- Matrix room: [#rust-for-lunch:matrix.org](https://matrix.to/#/#rust-for-lunch:matrix.org)
+- Discord server: [discord.gg/DbcWXPR5aq](https://discord.gg/DbcWXPR5aq)
+
 ## Contributing
 
 We would love to have more people involved in the Rust for Lunch meetup.
