@@ -7,8 +7,9 @@ draft = false
 
 We're celebrating 10 years since Rust 1.0 was released!
 
-This is a joint meet-up by Rust Berlin (hack & learn + Rust & tell), Rust Paris, Rust London, Rust
-Zurich, Rust Tel Aviv, Rust Nürnberg, Rust Munich, Rust Aarhus and our very own Rust for Lunch!
+This is a joint meet-up by Rust Berlin (hack & learn + Rust & tell), Rust Paris, London Rust Project
+Group , Rust Zurich, Rust Tel Aviv, Rust Nürnberg, Rust Munich, Rust Aarhus and our very own Rust
+for Lunch!
 
 - Meet-up call link: [https://meet.jit.si/RustHackAndLearnBerlin](https://meet.jit.si/RustHackAndLearnBerlin)
 - Date: **Thursday, 15 May, 2025**
