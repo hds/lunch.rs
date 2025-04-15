@@ -12,6 +12,6 @@ Zurich, Rust Tel Aviv, Rust Nürnberg, Rust Munich, Rust Aarhus and our very own
 
 - Meet-up call link: [https://meet.jit.si/RustHackAndLearnBerlin](https://meet.jit.si/RustHackAndLearnBerlin)
 - Date: **Thursday, 15 May, 2025**
-- Time: [**18:00 - 21:00 UTC**](https://everytimezone.com/s/ddb078ac)
+- Time: [**17:00 - 20:00 UTC**](https://everytimezone.com/s/ddb078ac)
 
 More details to come.
