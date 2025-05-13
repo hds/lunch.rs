@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title></title>
+      <link>https://lunch.rs</link>
+      <description></description>
+      <generator>Zola</generator>
+      <language>en</language>
+      <atom:link href="https://lunch.rs/rss.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
+      <item>
+          <title>Celebrating 10 years of Rust 1.0. 🦀</title>
+          <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2025-05-15-celebrating-10-years-of-rust-1-0/</link>
+          <guid>https://lunch.rs/meetups/2025-05-15-celebrating-10-years-of-rust-1-0/</guid>
+          <description xml:base="https://lunch.rs/meetups/2025-05-15-celebrating-10-years-of-rust-1-0/">&lt;p&gt;We are celebrating 10 years of Rust 1.0 with a very special Joint Meetup of&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;de-DE&#x2F;rust-berlin&#x2F;&quot;&gt;Rust Berlin: Hack And Learn&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;de-DE&#x2F;rust-berlin&#x2F;&quot;&gt;Rust Berlin: Rust And Tell&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;de-DE&#x2F;rust-paris&#x2F;&quot;&gt;Rust Paris&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;de-DE&#x2F;london-rust-project-group&#x2F;&quot;&gt;London Rust Project Group&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;de-DE&#x2F;rust-zurich&#x2F;&quot;&gt;Rust Zürisee (Zurich)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;de-DE&#x2F;rust-tlv&#x2F;&quot;&gt;Rust TLV (Tel Aviv)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;de-DE&#x2F;rust-noris&#x2F;&quot;&gt;Rust Nürnberg&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;de-DE&#x2F;rust-munich&#x2F;&quot;&gt;Rust Munich&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;de-de&#x2F;rust-aarhus&#x2F;&quot;&gt;Rust Aarhus&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;lunch.rs&#x2F;&quot;&gt;Rust for Lunch&lt;&#x2F;a&gt; (that&#x27;s us!)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;details&quot;&gt;Details&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: &lt;a href=&quot;https:&#x2F;&#x2F;meet.jit.si&#x2F;RustHackAndLearnBerlin&quot;&gt;https:&#x2F;&#x2F;meet.jit.si&#x2F;RustHackAndLearnBerlin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Thursday, 15 May, 2025&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;ddb078ac&quot;&gt;&lt;strong&gt;17:00 - 20:30 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;schedule&quot;&gt;Schedule&lt;&#x2F;h3&gt;
+&lt;p&gt;Here is a schedule for the event (times in UTC). There may be some changes depending on how long
+some of the discussions continue for, we don&#x27;t want to be too strict.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;17:00 – 17:15 Participant Check-In and Informal Gathering&lt;&#x2F;li&gt;
+&lt;li&gt;17:15 – 17:30 Welcome Note&lt;&#x2F;li&gt;
+&lt;li&gt;17:30 – 17:50 Keynote Speech by &lt;a href=&quot;https:&#x2F;&#x2F;seanmonstar.com&#x2F;&quot;&gt;Sean McArthur&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;17:50 – 18:00 Break&lt;&#x2F;li&gt;
+&lt;li&gt;18:00 – 19:45 Introduction of the Participating Meetup Groups&lt;&#x2F;li&gt;
+&lt;li&gt;19:45 – 20:00 Break&lt;&#x2F;li&gt;
+&lt;li&gt;20:00 – 20:30 Q&amp;amp;A, Official Closing, and Raffle&lt;&#x2F;li&gt;
+&lt;li&gt;20:30 – Open End Casual Hangout and Open Networking&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Feel free to join and drop out at any point.&lt;&#x2F;p&gt;
+&lt;p&gt;Everyone is invited to join us, no travel necessary.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>2024-11-12</title>
+          <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2024-11-12/</link>
+          <guid>https://lunch.rs/meetups/2024-11-12/</guid>
+          <description xml:base="https://lunch.rs/meetups/2024-11-12/">&lt;p&gt;The November 2024 Rust for Lunch meet-up will be a Hack and Tell. Come along and tell us all what
+you&#x27;re working on at the moment.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;d like to remind everyone that all participants (speakers, moderators, and attendees) must follow
+the &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#code-of-conduct&quot;&gt;Code of Conduct&lt;&#x2F;a&gt; during the meetup.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: &lt;a href=&quot;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&quot;&gt;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&lt;&#x2F;a&gt; (Senfcall)&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Tuesday, 12 November, 2024&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;db8f6db7&quot;&gt;&lt;strong&gt;12:00 - 13:00 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12:00 - 13:00 GMT&lt;&#x2F;strong&gt; (e.g. London, Bamako)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;13:00 - 14:00 WAT&#x2F;CET&lt;&#x2F;strong&gt; (e.g. Kinshasa, Berlin)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;14:00 - 15:00 EET&#x2F;CAT&lt;&#x2F;strong&gt; (e.g. Lviv, Cairo)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;hack-and-tell&quot;&gt;Hack and Tell&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;speaker-it-could-be-you&quot;&gt;Speaker: it could be you...&lt;&#x2F;h4&gt;
+&lt;p&gt;This month we&#x27;re giving everyone the opportunity to join and tell us what you&#x27;re working on. No
+preparation is required, just take 5 or 10 minutes to give an introduction to something you find
+fun!&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>2024-10-14</title>
+          <pubDate>Mon, 14 Oct 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2024-10-14/</link>
+          <guid>https://lunch.rs/meetups/2024-10-14/</guid>
+          <description xml:base="https://lunch.rs/meetups/2024-10-14/">&lt;p&gt;The October 2024 Rust for Lunch meet-up will have a single talk with time for questions afterwards.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;d like to remind everyone that all participants (speakers, moderators, and attendees) must follow
+the &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#code-of-conduct&quot;&gt;Code of Conduct&lt;&#x2F;a&gt; during the meetup.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: &lt;a href=&quot;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&quot;&gt;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&lt;&#x2F;a&gt; (Senfcall)&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Monday, 14 October, 2024&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;426cc1c5&quot;&gt;&lt;strong&gt;11:00 - 12:00 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12:00 - 13:00 GMT&lt;&#x2F;strong&gt; (e.g. London, Bamako)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;13:00 - 14:00 WAT&#x2F;CET&lt;&#x2F;strong&gt; (e.g. Kinshasa, Berlin)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;14:00 - 15:00 EET&#x2F;CAT&lt;&#x2F;strong&gt; (e.g. Lviv, Cairo)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;getting-started-with-embedded-rust&quot;&gt;Getting started with embedded Rust&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;speaker-sandro-stikic&quot;&gt;Speaker: &lt;a href=&quot;https:&#x2F;&#x2F;stiki%C4%87.com&#x2F;&quot;&gt;Sandro Stikić&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;learn how to get started with embedded rust development! my thesis statement is: &quot;embedded
+development should be fun!&quot;&lt;&#x2F;li&gt;
+&lt;li&gt;i plan to detail the entire process of flashing a hello world program onto a microcontroller using
+a pure rust stack&lt;&#x2F;li&gt;
+&lt;li&gt;what hardware is required&#x2F;recommended&lt;&#x2F;li&gt;
+&lt;li&gt;recommended rust crates&lt;&#x2F;li&gt;
+&lt;li&gt;connecting up the hardware&lt;&#x2F;li&gt;
+&lt;li&gt;how to write and flash the software&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Slides: &lt;a href=&quot;&#x2F;content&#x2F;2024-10-14&#x2F;Getting_started_with_embedded_Rust.pdf&quot;&gt;Getting_started_with_embedded_Rust.pdf&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>2024-09-17</title>
+          <pubDate>Tue, 17 Sep 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2024-09-17/</link>
+          <guid>https://lunch.rs/meetups/2024-09-17/</guid>
+          <description xml:base="https://lunch.rs/meetups/2024-09-17/">&lt;p&gt;Welcome back! After our summer break, the September 2024 Rust for Lunch meet-up will be a group
+implementation session!&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;d like to remind everyone that all participants (speakers, moderators, and attendees) must follow
+the &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#code-of-conduct&quot;&gt;Code of Conduct&lt;&#x2F;a&gt; during the meetup.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: &lt;a href=&quot;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&quot;&gt;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&lt;&#x2F;a&gt; (Senfcall)&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Tuesday, 17 September, 2024&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;e85f9c54&quot;&gt;&lt;strong&gt;11:00 - 12:00 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12:00 - 13:00 GMT&lt;&#x2F;strong&gt; (e.g. London, Bamako)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;13:00 - 14:00 WAT&#x2F;CET&lt;&#x2F;strong&gt; (e.g. Kinshasa, Berlin)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;14:00 - 15:00 EET&#x2F;CAT&lt;&#x2F;strong&gt; (e.g. Lviv, Cairo)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;let-s-write-an-http-server-in-rust&quot;&gt;Let&#x27;s write an HTTP server in Rust&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;speaker-hayden-stainsby&quot;&gt;Speaker: &lt;a href=&quot;https:&#x2F;&#x2F;hegdenu.net&#x2F;&quot;&gt;Hayden Stainsby&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;Bring your copy of &lt;a href=&quot;https:&#x2F;&#x2F;datatracker.ietf.org&#x2F;doc&#x2F;html&#x2F;rfc2616&quot;&gt;RFC 2616&lt;&#x2F;a&gt;, we&#x27;re going to write
+an HTTP server!&lt;&#x2F;p&gt;
+&lt;p&gt;This will be a group implementation session, where we&#x27;ll do our best to get a &lt;code&gt;curl&lt;&#x2F;code&gt;-compliant HTTP
+server responding with something simple by the end of our lunch break.&lt;&#x2F;p&gt;
+&lt;h4 id=&quot;the-result&quot;&gt;The result&lt;&#x2F;h4&gt;
+&lt;p&gt;We managed to get a server working with some basic error handling as well as responding to a happy
+path request with a body. The code has been left exactly as it was at the end of the meet-up, &lt;code&gt;dbg!&lt;&#x2F;code&gt;
+statements and all!&lt;&#x2F;p&gt;
+&lt;p&gt;The code can be found on GitHub &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;hds&#x2F;lunch.rs&quot;&gt;hds&#x2F;lunch.rs&lt;&#x2F;a&gt;:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;hds&#x2F;lunch.rs&#x2F;tree&#x2F;main&#x2F;static&#x2F;content&#x2F;2024-09-17&#x2F;http-for-lunch&quot;&gt;http-for-lunch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>2024-07-09</title>
+          <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2024-07-09/</link>
+          <guid>https://lunch.rs/meetups/2024-07-09/</guid>
+          <description xml:base="https://lunch.rs/meetups/2024-07-09/">&lt;p&gt;The July 2024 Rust for Lunch meet-up will have a single talk with time for
+questions afterwards.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;d like to remind everyone that all participants (speakers, moderators, and
+attendees) must follow the &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#code-of-conduct&quot;&gt;Code of Conduct&lt;&#x2F;a&gt; during
+the meetup.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: &lt;a href=&quot;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&quot;&gt;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&lt;&#x2F;a&gt; (Senfcall)&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Tuesday, 9 July, 2024&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;ede0036f&quot;&gt;&lt;strong&gt;11:00 - 12:00 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12:00 - 13:00 GMT&lt;&#x2F;strong&gt; (e.g. London, Bamako)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;13:00 - 14:00 WAT&#x2F;CET&lt;&#x2F;strong&gt; (e.g. Kinshasa, Berlin)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;14:00 - 15:00 EET&#x2F;CAT&lt;&#x2F;strong&gt; (e.g. Lviv, Cairo)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;using-category-theory-to-parse-command-line-options&quot;&gt;Using category theory to parse command line options&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;speaker-michael-baykov&quot;&gt;Speaker: &lt;a href=&quot;https:&#x2F;&#x2F;functional.cafe&#x2F;@manpacket&quot;&gt;Michael Baykov&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;We are going to talk about side effects in Rust and how to manage them using
+abstractions from Category Theory using command line options parsing as an
+example. No prior knowledge in either Category Theory or command line options
+parsing is required, being able to read Rust code and look at pretty pictures
+should be enough 🙂&lt;&#x2F;p&gt;
+&lt;p&gt;Slides (source, presented with &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mfontanini&#x2F;presenterm&quot;&gt;presenterm&lt;&#x2F;a&gt;):&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;content&#x2F;2024-07-09&#x2F;slides.md&quot;&gt;slides.md&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;content&#x2F;2024-07-09&#x2F;pic1.png&quot;&gt;pic1.png&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;&#x2F;content&#x2F;2024-07-09&#x2F;pic2.png&quot;&gt;pic2.png&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>2024-06-11</title>
+          <pubDate>Tue, 11 Jun 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2024-06-11/</link>
+          <guid>https://lunch.rs/meetups/2024-06-11/</guid>
+          <description xml:base="https://lunch.rs/meetups/2024-06-11/">&lt;p&gt;The June 2024 Rust for Lunch meet-up will be a group quiz!&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;d like to remind everyone that all participants (speakers, moderators, and
+attendees) must follow the &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#code-of-conduct&quot;&gt;Code of Conduct&lt;&#x2F;a&gt; during
+the meetup.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: &lt;a href=&quot;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&quot;&gt;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&lt;&#x2F;a&gt; (Senfcall)&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Tuesday, 11 June, 2024&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;4fd4588c&quot;&gt;&lt;strong&gt;11:00 - 12:00 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;11:00 - 12:00 GMT&lt;&#x2F;strong&gt; (e.g. Bamako)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;12:00 - 13:00 BST&#x2F;WAT&lt;&#x2F;strong&gt; (e.g. London, Kinshasa)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;13:00 - 14:00 CEST&lt;&#x2F;strong&gt; (e.g. Berlin)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;14:00 - 15:00 EEST&lt;&#x2F;strong&gt; (e.g. Lviv, Cairo)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;group-quiz&quot;&gt;Group quiz&lt;&#x2F;h3&gt;
+&lt;p&gt;We will go through a selection of questions from the
+&lt;a href=&quot;https:&#x2F;&#x2F;dtolnay.github.io&#x2F;rust-quiz&quot;&gt;rust quiz&lt;&#x2F;a&gt; and discuss the answers in a
+group.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>2024-05-14</title>
+          <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2024-05-14/</link>
+          <guid>https://lunch.rs/meetups/2024-05-14/</guid>
+          <description xml:base="https://lunch.rs/meetups/2024-05-14/">&lt;p&gt;The May 2024 Rust for Lunch meet-up will have a single talk with time for
+questions afterwards.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;d like to remind everyone that all participants (speakers, moderators, and
+attendees) must follow the &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#code-of-conduct&quot;&gt;Code of Conduct&lt;&#x2F;a&gt; during
+the meetup.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: &lt;a href=&quot;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&quot;&gt;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&lt;&#x2F;a&gt; (Senfcall)&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Tuesday, 14 May, 2024&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;95f21b71&quot;&gt;&lt;strong&gt;11:00 - 12:00 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12:00 - 13:00 GMT&lt;&#x2F;strong&gt; (e.g. London, Bamako)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;13:00 - 14:00 WAT&#x2F;CET&lt;&#x2F;strong&gt; (e.g. Kinshasa, Berlin)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;14:00 - 15:00 EET&#x2F;CAT&lt;&#x2F;strong&gt; (e.g. Lviv, Cairo)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;how-does-rendering-work-in-the-terminal&quot;&gt;How does rendering work in the terminal?&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;speaker-orhun-parmaksiz&quot;&gt;Speaker: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;orhun&quot;&gt;Orhun Parmaksız&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;content&#x2F;2024-05-14&#x2F;how_does_rendering_work_in_the_terminal.png&quot; alt=&quot;Presentation title slide: How does rendering work in the terminal? featuring: Ratatui. ohrun.dev Orhun Parmaksız&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Let&#x27;s delve into how terminal rendering works by exploring the implementations of Ratatui and
+Crossterm.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>2024-04-16</title>
+          <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2024-04-16/</link>
+          <guid>https://lunch.rs/meetups/2024-04-16/</guid>
+          <description xml:base="https://lunch.rs/meetups/2024-04-16/">&lt;p&gt;The April 2024 Rust for Lunch meet-up will be dedicated to lightning talks.
+Each talk will be given 5 minutes for the talk and 2 minutes for questions.&lt;&#x2F;p&gt;
+&lt;p&gt;If you would like to reserve a place for a lightning talk before the meet-up
+(which is probably a good idea), then please &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#contact&quot;&gt;contact us&lt;&#x2F;a&gt;.
+Empty slots, if there are any, will be filled by people who show up on the day
+and would like to speak.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;d like to remind everyone that all participants (speakers, moderators, and
+attendees) must follow the &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#code-of-conduct&quot;&gt;Code of Conduct&lt;&#x2F;a&gt; during
+the meetup.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: &lt;a href=&quot;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&quot;&gt;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&lt;&#x2F;a&gt; (Senfcall)&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Tuesday, 16 April, 2024&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;a9a5010c&quot;&gt;&lt;strong&gt;11:00 - 12:00 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12:00 - 13:00 GMT&lt;&#x2F;strong&gt; (e.g. London, Bamako)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;13:00 - 14:00 WAT&#x2F;CET&lt;&#x2F;strong&gt; (e.g. Kinshasa, Berlin)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;14:00 - 15:00 EET&#x2F;CAT&lt;&#x2F;strong&gt; (e.g. Lviv, Cairo)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;lightning-talks&quot;&gt;Lightning Talks&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;conradludgate&quot;&gt;Conrad Ludgate&lt;&#x2F;a&gt;: &lt;strong&gt;&lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;measured&quot;&gt;measured&lt;&#x2F;a&gt; crate&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides: &lt;a href=&quot;https:&#x2F;&#x2F;slides.conrad.cafe&#x2F;slides&#x2F;2024&#x2F;04&#x2F;measured&#x2F;&quot;&gt;slides.conrad.cafe&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;orhun&quot;&gt;Orhun Parmaksız&lt;&#x2F;a&gt;: &lt;strong&gt;cooking up TUIs w&#x2F; &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ratatui-org&#x2F;ratatui&quot;&gt;Ratatui&lt;&#x2F;a&gt;&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides: &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1OspVrq5gESsyjU7Qj5Vaff6Vwr7zYjZcmLWVPtnO0AM&quot;&gt;docs.google.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hexavik.github.io&quot;&gt;Vikrant A P (hexavik)&lt;&#x2F;a&gt;: &lt;strong&gt;How I simplified Learning Rust&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides: &lt;a href=&quot;&#x2F;content&#x2F;2024-04-16&#x2F;how_I_simplified_learning_rust.pdf&quot;&gt;how_I_simplified_learning_rust.pdf&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mo8it.com&quot;&gt;Mo (mo8it)&lt;&#x2F;a&gt;: &lt;strong&gt;Rustlings Rewrite&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Rustlings repo: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-lang&#x2F;rustlings&quot;&gt;rust-lang&#x2F;rustlings&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.linkedin.com&#x2F;in&#x2F;luigi-t-a1b37798&#x2F;&quot;&gt;Luigi Taglialatela&lt;&#x2F;a&gt;: &lt;strong&gt;Free doesn’t free&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides: &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1Md9WetjsubnqflgozmYAV27PWZyDNEUuSPHnLK6dWkY&#x2F;&quot;&gt;docs.google.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.0xatticus.com&#x2F;&quot;&gt;Gaël Macherel (Atticus)&lt;&#x2F;a&gt;: &lt;strong&gt;Me, surprised by debug-mode side effects&lt;&#x2F;strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides: &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;presentation&#x2F;d&#x2F;1TMNRL9kx23h7AirpJmOfExIg9hgnW1peNyzYYrSU1z4&quot;&gt;docs.google.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>2024-03-19</title>
+          <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2024-03-19/</link>
+          <guid>https://lunch.rs/meetups/2024-03-19/</guid>
+          <description xml:base="https://lunch.rs/meetups/2024-03-19/">&lt;p&gt;The March, 2024 Rust for Lunch meet-up. We&#x27;ll have a single
+talk and then time for questions afterwards.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;d like to remind everyone that all participants (speakers, moderators, and
+attendees) must follow the &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#code-of-conduct&quot;&gt;Code of Conduct&lt;&#x2F;a&gt; during
+the meetup.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: &lt;a href=&quot;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&quot;&gt;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&lt;&#x2F;a&gt; (Senfcall)&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Tuesday, 19 March, 2024&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;8e70f314&quot;&gt;&lt;strong&gt;12:00 - 13:00 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12:00 - 13:00 GMT&lt;&#x2F;strong&gt; (e.g. London, Bamako)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;13:00 - 14:00 WAT&#x2F;CET&lt;&#x2F;strong&gt; (e.g. Kinshasa, Berlin)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;14:00 - 15:00 EET&#x2F;CAT&lt;&#x2F;strong&gt; (e.g. Lviv, Cairo)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;formal-verification-for-rust-with-coq-of-rust&quot;&gt;Formal verification for Rust with coq-of-rust&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;speaker-guillaume-claret&quot;&gt;Speaker: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;clarus&quot;&gt;Guillaume Claret&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;With formal verification, we can assert that a program contains no bugs for a
+specification, covering all execution cases. We present coq-of-rust
+https:&#x2F;&#x2F;github.com&#x2F;formal-land&#x2F;coq-of-rust , a formal verification tool for
+Rust that we developed. It works by translating Rust programs to the proof
+system Coq.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Slides online: https:&#x2F;&#x2F;formal.land&#x2F;lunch-rs-presentation&#x2F;&lt;&#x2F;li&gt;
+&lt;li&gt;Slides download: Slides: &lt;a href=&quot;&#x2F;content&#x2F;2024-03-19&#x2F;lunch-rs-guillaume-coq-of-rust.zip&quot;&gt;lunch-rs-guillaume-coq-of-rust.zip&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</description>
+      </item>
+      <item>
+          <title>2024-02-20</title>
+          <pubDate>Tue, 20 Feb 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2024-02-20/</link>
+          <guid>https://lunch.rs/meetups/2024-02-20/</guid>
+          <description xml:base="https://lunch.rs/meetups/2024-02-20/">&lt;p&gt;The February, 2024 Rust for Lunch meet-up. We&#x27;ll have a single
+talk and then time for questions afterwards.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;d like to remind everyone that all participants (speakers, moderators, and
+attendees) must follow the &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#code-of-conduct&quot;&gt;Code of Conduct&lt;&#x2F;a&gt; during
+the meetup.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: &lt;a href=&quot;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&quot;&gt;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&lt;&#x2F;a&gt; (Senfcall)&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Tuesday, 20 February, 2024&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;d15dbd5e&quot;&gt;&lt;strong&gt;12:00 - 13:00 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12:00 - 13:00 GMT&lt;&#x2F;strong&gt; (e.g. London, Bamako)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;13:00 - 14:00 WAT&#x2F;CET&lt;&#x2F;strong&gt; (e.g. Kinshasa, Berlin)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;14:00 - 15:00 EET&#x2F;CAT&lt;&#x2F;strong&gt; (e.g. Lviv, Cairo)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;faster-rust-serialization&quot;&gt;Faster Rust Serialization&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;speaker-mo-bitar-mo8it&quot;&gt;Speaker: &lt;a href=&quot;https:&#x2F;&#x2F;mo8it.com&#x2F;&quot;&gt;Mo Bitar (mo8it)&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;How to speed up Rust serialization with &lt;code&gt;serde&lt;&#x2F;code&gt; by up to 2.25x 🚀!&lt;&#x2F;p&gt;
+&lt;p&gt;What to expect:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;A simple example with JSON&lt;&#x2F;li&gt;
+&lt;li&gt;How serialization in serde works&lt;&#x2F;li&gt;
+&lt;li&gt;Manually implementing the Serialize trait&lt;&#x2F;li&gt;
+&lt;li&gt;Serialization with the newtype pattern&lt;&#x2F;li&gt;
+&lt;li&gt;Benchmarking with divan&lt;&#x2F;li&gt;
+&lt;li&gt;Discussing the overhead of allocations&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Related blog post: &lt;a href=&quot;https:&#x2F;&#x2F;mo8it.com&#x2F;blog&#x2F;faster-rust-serialization&#x2F;&quot;&gt;https:&#x2F;&#x2F;mo8it.com&#x2F;blog&#x2F;faster-rust-serialization&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>2024-01-24</title>
+          <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2024-01-24/</link>
+          <guid>https://lunch.rs/meetups/2024-01-24/</guid>
+          <description xml:base="https://lunch.rs/meetups/2024-01-24/">&lt;p&gt;This is the third Rust for Lunch meet-up. We&#x27;ll have a single talk and then
+time for questions afterwards.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;d like to remind everyone that all participants (speakers, moderators, and
+attendees) must follow the &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#code-of-conduct&quot;&gt;Code of Conduct&lt;&#x2F;a&gt; during
+the meetup.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: &lt;a href=&quot;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&quot;&gt;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&lt;&#x2F;a&gt; (Senfcall)&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Wednesday, 24 January, 2024&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;e35f56e0&quot;&gt;&lt;strong&gt;12:00 - 13:00 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12:00 - 13:00 GMT&lt;&#x2F;strong&gt; (e.g. London, Bamako)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;13:00 - 14:00 WAT&#x2F;CET&lt;&#x2F;strong&gt; (e.g. Kinshasa, Berlin)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;14:00 - 15:00 EET&#x2F;CAT&lt;&#x2F;strong&gt; (e.g. Lviv, Cairo)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;implementing-a-rust-virtual-machine-monitor-for-nushift&quot;&gt;Implementing a Rust virtual machine monitor for Nushift&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;speaker-david-pollack&quot;&gt;Speaker: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;davepollack&quot;&gt;David Pollack&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;Nushift is a platform that attempts to be an alternative to the web that has
+the advantage of shareable URLs, but provides different ABIs&#x2F;APIs to the web.
+We discuss the Rust implementation of these APIs, including the organisation
+into subsystems and the support of requirements like deferred execution.&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>2023-11-28</title>
+          <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2023-11-28/</link>
+          <guid>https://lunch.rs/meetups/2023-11-28/</guid>
+          <description xml:base="https://lunch.rs/meetups/2023-11-28/">&lt;p&gt;The second session of the Rust for Lunch meetup. We&#x27;ll have &lt;strong&gt;two&lt;&#x2F;strong&gt; talks,
+each with time for questions afterwards. There will be time for chatting and
+socializing after the talks.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;d like to remind everyone that all participants (speakers, moderators, and
+attendees) must follow the &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#code-of-conduct&quot;&gt;Code of Conduct&lt;&#x2F;a&gt; during
+the meetup.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: &lt;a href=&quot;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&quot;&gt;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&lt;&#x2F;a&gt; (Senfcall)&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Tuesday, 28 November, 2023&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;e35f56e0&quot;&gt;&lt;strong&gt;12:00 - 13:00 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12:00 - 13:00 GMT&lt;&#x2F;strong&gt; (e.g. London, Bamako)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;13:00 - 14:00 WAT&#x2F;CET&lt;&#x2F;strong&gt; (e.g. Kinshasa, Berlin)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;14:00 - 15:00 EET&#x2F;CAT&lt;&#x2F;strong&gt; (e.g. Lviv, Cairo)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;talk-1-deterministic-execution-time-control-for-arbitrary-wasm&quot;&gt;Talk 1: Deterministic Execution Time Control for Arbitrary WASM&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;speaker-bohdan-ivashko-arriven&quot;&gt;Speaker: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;arriven&quot;&gt;Bohdan Ivashko (arriven)&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;Sometimes you may need to run an arbitrary wasm code while being able to
+impose limits on CPU and memory usage. While having precise memory limits is
+relatively easy, controlling the CPU limits in a reproducible way is a totally
+different can of worms (Spoiler: it&#x27;s counting instructions, we&#x27;ll have to
+count instructions, but we&#x27;ll have to do it somewhat efficiently, and we&#x27;ll do
+it by analyzing and modifying the original code).&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Unfortunatebly the second talk for this meet-up has been cancelled. Instead,
+the first talk will run a bit longer.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+      <item>
+          <title>2023-10-31</title>
+          <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+          <author>Unknown</author>
+          <link>https://lunch.rs/meetups/2023-10-31/</link>
+          <guid>https://lunch.rs/meetups/2023-10-31/</guid>
+          <description xml:base="https://lunch.rs/meetups/2023-10-31/">&lt;p&gt;The first Rust for Lunch meetup. Join us online for a talk and questions
+afterwards.&lt;&#x2F;p&gt;
+&lt;p&gt;This session won&#x27;t be recorded or streamed.&lt;&#x2F;p&gt;
+&lt;p&gt;We&#x27;d like to remind everyone that all participants (speakers, moderators, and
+attendees) must follow the &lt;a href=&quot;https:&#x2F;&#x2F;lunch.rs&#x2F;about&#x2F;#code-of-conduct&quot;&gt;Code of Conduct&lt;&#x2F;a&gt; during
+the meetup.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Meet-up call link: &lt;a href=&quot;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&quot;&gt;https:&#x2F;&#x2F;lecture.senfcall.de&#x2F;hay-gmh-wox-mru&lt;&#x2F;a&gt; (Senfcall)&lt;&#x2F;li&gt;
+&lt;li&gt;Date: &lt;strong&gt;Tuesday, 31 October, 2023&lt;&#x2F;strong&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Time: &lt;a href=&quot;https:&#x2F;&#x2F;everytimezone.com&#x2F;s&#x2F;0638f484&quot;&gt;&lt;strong&gt;12:00 - 13:00 UTC&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;12:00 - 13:00 GMT&lt;&#x2F;strong&gt; (e.g. London, Bamako)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;13:00 - 14:00 WAT&#x2F;CET&lt;&#x2F;strong&gt; (e.g. Kinshasa, Berlin)&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;14:00 - 15:00 EET&#x2F;CAT&lt;&#x2F;strong&gt; (e.g. Lviv, Cairo)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;talk-abusing-the-type-system-for-fun-and-for-profit&quot;&gt;Talk: Abusing the Type System for Fun and for Profit&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;speaker-conrad-ludgate&quot;&gt;Speaker: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;conradludgate&quot;&gt;Conrad Ludgate&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;content&#x2F;2023-10-31&#x2F;Abusing_the_Type_System_for_Fun_and_for_Profit-0.png&quot; alt=&quot;Abusing the Type System For Fun and for Profit&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Are you absolutely sure that your payments are submitted at most once? Are you
+sure that your cryptographic library is used correctly? Are you sure that BTree
+is balanced? I&#x27;ll explore some useful (and some goofy) ways to use the rust
+type system to get what you want.&lt;&#x2F;p&gt;
+&lt;p&gt;Slides: &lt;a href=&quot;&#x2F;content&#x2F;2023-10-31&#x2F;Abusing_the_Type_System_for_Fun_and_for_Profit.pdf&quot;&gt;Abusing_the_Type_System_for_Fun_and_for_Profit.pdf&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</description>
+      </item>
+    </channel>
+</rss>
